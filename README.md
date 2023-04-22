@@ -19,3 +19,12 @@ Clone the repository and open the project in Android Studio.
 * Open the project in Android Studio.
 * Build the project using the Gradle build button.
 * Run the app on an Android emulator or device.
+
+
+## Demo
+
+
+
+https://user-images.githubusercontent.com/123125407/233761107-920e6dfb-bb68-46ff-b689-65e2c3f1de32.mp4
+
+
