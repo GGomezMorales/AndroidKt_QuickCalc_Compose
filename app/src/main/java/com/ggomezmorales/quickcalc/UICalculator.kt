@@ -47,7 +47,7 @@ fun UICalculator(
                 fontSize = 80.sp,
                 color = Color.White,
                 lineHeight = 80.sp,
-                maxLines = 2
+                maxLines = 2,
             )
             Row(
                 modifier = Modifier.fillMaxWidth(),
@@ -74,7 +74,7 @@ fun UICalculator(
                     }
                 )
                 StandartButton(
-                    symbol = "/",
+                    symbol = "÷",
                     modifier = Modifier
                         .background(PrettyGreen, CircleShape)
                         .aspectRatio(1f)
@@ -119,7 +119,7 @@ fun UICalculator(
                     }
                 )
                 StandartButton(
-                    symbol = "X",
+                    symbol = "×",
                     modifier = Modifier
                         .background(PrettyGreen, CircleShape)
                         .aspectRatio(1f)
