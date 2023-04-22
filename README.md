@@ -1,4 +1,4 @@
-# Readme for QuickCalc App developed with Compose
+# <h1 align = "center">Readme for QuickCalc App developed with Compose</h1>
 
 This is an Android application developed with Jetpack Compose based on Philipp Lackner's guide in one of his YouTube videos. This application is a basic calculator that was developed with the objective of learning the concept of ViewModel and classes
 
@@ -20,11 +20,6 @@ Clone the repository and open the project in Android Studio.
 * Build the project using the Gradle build button.
 * Run the app on an Android emulator or device.
 
-
 ## Demo
 
-
-
 https://user-images.githubusercontent.com/123125407/233761107-920e6dfb-bb68-46ff-b689-65e2c3f1de32.mp4
-
-
